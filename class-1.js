@@ -37,7 +37,7 @@ function reactElement(){
     }
     else{
       const errorMsg = "You haven't typed anything , reload the page and try again."
-      const errorElem = React.createElement("span", {}, errorMsg);
+      const errorElem = React.createElement("span", {class: "error-msg"}, errorMsg);
       const root2 = ReactDOM.createRoot(document.getElementById("root1"));
       root2.render(errorElem);
       console.log(errorMsg);
