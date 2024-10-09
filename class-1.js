@@ -40,6 +40,6 @@ function reactElement(){
       const errorElem = React.createElement("span", {}, errorMsg);
       const root2 = ReactDOM.createRoot(document.getElementById("root1"));
       root2.render(errorElem);
-      //console.log(errorMsg);
+      console.log(errorMsg);
     }
 }
