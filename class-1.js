@@ -2,6 +2,8 @@
 1. Setup react in project
 2. Try basic dom element maniulation with vanila js & react
 */
+import React from "react";
+import ReactDOM from "react-dom";
 
 document.addEventListener("DOMContentLoaded", function () {
   console.clear(); // clean the console

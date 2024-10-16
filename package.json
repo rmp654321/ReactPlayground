@@ -2,7 +2,7 @@
   "name": "reactplayground",
   "version": "1.0.0",
   "description": "Playing around react",
-  "main": "int: index.html",
+  "main": "int: class-1.js",
   "scripts": {
     "test": "jest"
   },
