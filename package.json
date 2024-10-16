@@ -1,0 +1,23 @@
+{
+  "name": "reactplayground",
+  "version": "1.0.0",
+  "description": "Playing around react",
+  "main": "int: index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rmp654321/ReactPlayground.git"
+  },
+  "keywords": [
+    "Rahul",
+    "Patel"
+  ],
+  "author": "Rahul Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rmp654321/ReactPlayground/issues"
+  },
+  "homepage": "https://github.com/rmp654321/ReactPlayground#readme"
+}
